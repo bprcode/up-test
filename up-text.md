@@ -20,3 +20,4 @@ local change
 7 - Eighth  
 8 - Ninth  
 additional local change  
+local change after setting check global recurse behavior  
